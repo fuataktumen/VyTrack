@@ -326,7 +326,7 @@ public class CalenderEventsPageTest extends TestBase {
         ccsp.repeat.click();
         Assert.assertTrue(ccsp.repeat.isSelected());
         extentLogger.info("Repeat button isSelected");
-
+gı
         Assert.assertTrue(ccsp.repeatEvery.isSelected());
 
         Assert.assertTrue(ccsp.never.isSelected());
